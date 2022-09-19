@@ -1,4 +1,4 @@
-package cz.marianjanik.L13REST_JDBC;
+package cz.marianjanik.l13restjdbc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

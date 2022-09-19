@@ -1,4 +1,4 @@
-package cz.marianjanik.L13REST_JDBC;
+package cz.marianjanik.l13restjdbc;
 
 public class Movie {
     private int idMovie;
